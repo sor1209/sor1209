@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-labelledby="title description">
+  <title id="title">About sor1209</title>
+  <desc id="description">A compact profile card: full-stack developer from Vietnam, curious by default, fueled by music and code.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#11101e"/>
+      <stop offset="1" stop-color="#19152e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c578ff"/>
+      <stop offset=".55" stop-color="#815dff"/>
+      <stop offset="1" stop-color="#56aaff"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="998" height="188" rx="22" fill="url(#bg)" stroke="#59467f" stroke-opacity=".8" stroke-width="2"/>
+  <rect x="28" y="30" width="5" height="130" rx="2.5" fill="url(#accent)"/>
+  <text x="58" y="58" fill="#a99dbc" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">A LITTLE ABOUT ME</text>
+  <text x="58" y="98" fill="#f5f0ff" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700">Curiosity, code, and a playlist on repeat.</text>
+  <text x="58" y="128" fill="#aaa3bd" font-family="Segoe UI, Arial, sans-serif" font-size="15">Full-stack developer from Vietnam, making useful things for the web and beyond.</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">
+    <rect x="58" y="145" width="111" height="27" rx="13.5" fill="#261d3b" stroke="#8f62cf" stroke-opacity=".65"/>
+    <text x="113.5" y="163" text-anchor="middle" fill="#ddc8ff">✦ CURIOUS</text>
+    <rect x="180" y="145" width="141" height="27" rx="13.5" fill="#20203b" stroke="#7264c8" stroke-opacity=".65"/>
+    <text x="250.5" y="163" text-anchor="middle" fill="#ccc8ff">♫ MUSIC + CODE</text>
+    <rect x="332" y="145" width="138" height="27" rx="13.5" fill="#1e263b" stroke="#5879be" stroke-opacity=".65"/>
+    <text x="401" y="163" text-anchor="middle" fill="#b9d6ff">↗ ALWAYS LEARNING</text>
+  </g>
+
+  <g transform="translate(790 45)">
+    <circle cx="70" cy="50" r="44" fill="#231b3c" stroke="#8c68d6" stroke-opacity=".8"/>
+    <circle cx="70" cy="50" r="34" fill="none" stroke="#7054b2" stroke-opacity=".65" stroke-dasharray="3 7"/>
+    <path d="M57 55V44a13 13 0 0 1 26 0v11M54 54h-3a5 5 0 0 0 0 10h6V53h-3m32 1h3a5 5 0 0 1 0 10h-6V53h3M60 69c5 5 15 5 20 0" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <circle cx="122" cy="17" r="4" fill="#be8aff"/>
+    <path d="m22 13 3 6 6 1-5 4 1 6-5-3-5 3 1-6-5-4 6-1z" fill="#8d75ff" opacity=".8"/>
+  </g>
+</svg>

@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="380" viewBox="0 0 1100 380" role="img" aria-labelledby="title description">
+  <title id="title">My technology stack</title>
+  <desc id="description">A dark neon-purple technology map covering languages, frontend, backend, databases, and creative tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10101b"/>
+      <stop offset="1" stop-color="#17152b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#cb71ff"/>
+      <stop offset=".55" stop-color="#825bff"/>
+      <stop offset="1" stop-color="#53aaff"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1098" height="378" rx="24" fill="url(#bg)" stroke="#514273" stroke-opacity=".8" stroke-width="2"/>
+  <text x="38" y="44" fill="#f2edff" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="1">THE TOOLKIT</text>
+  <text x="38" y="68" fill="#9089a8" font-family="Segoe UI, Arial, sans-serif" font-size="13">A flexible stack for building, shipping, and creating.</text>
+  <path d="M38 88H1062" stroke="url(#accent)" stroke-opacity=".65"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g transform="translate(38 108)">
+      <rect width="322" height="104" rx="15" fill="#191727" stroke="#8d62cf" stroke-opacity=".7"/>
+      <rect x="16" y="15" width="4" height="24" rx="2" fill="#c47cff"/>
+      <text x="32" y="33" fill="#d7c6ff" font-size="13" font-weight="700" letter-spacing="1">01 / LANGUAGES</text>
+      <g font-size="13" font-weight="600">
+        <rect x="17" y="54" width="86" height="31" rx="8" fill="#292139"/><text x="31" y="74" fill="#ffe58f">JavaScript</text>
+        <rect x="111" y="54" width="93" height="31" rx="8" fill="#202c43"/><text x="123" y="74" fill="#9dc7ff">TypeScript</text>
+        <rect x="212" y="54" width="83" height="31" rx="8" fill="#203044"/><text x="231" y="74" fill="#9dd8ff">Python</text>
+      </g>
+      <text x="18" y="99" fill="#aaa2bb" font-size="11">Java　·　PHP</text>
+    </g>
+
+    <g transform="translate(389 108)">
+      <rect width="322" height="104" rx="15" fill="#191727" stroke="#7663d4" stroke-opacity=".7"/>
+      <rect x="16" y="15" width="4" height="24" rx="2" fill="#9b82ff"/>
+      <text x="32" y="33" fill="#d7c6ff" font-size="13" font-weight="700" letter-spacing="1">02 / FRONTEND</text>
+      <g font-size="13" font-weight="600">
+        <rect x="17" y="54" width="73" height="31" rx="8" fill="#30202a"/><text x="33" y="74" fill="#ffab91">HTML</text>
+        <rect x="98" y="54" width="65" height="31" rx="8" fill="#202b43"/><text x="117" y="74" fill="#9dc7ff">CSS</text>
+        <rect x="171" y="54" width="70" height="31" rx="8" fill="#202c38"/><text x="183" y="74" fill="#84e8f5">React</text>
+        <rect x="249" y="54" width="57" height="31" rx="8" fill="#20342f"/><text x="260" y="74" fill="#9ae2b0">Vue</text>
+      </g>
+      <text x="18" y="99" fill="#aaa2bb" font-size="11">Tailwind CSS</text>
+    </g>
+
+    <g transform="translate(740 108)">
+      <rect width="322" height="104" rx="15" fill="#191727" stroke="#577ed0" stroke-opacity=".75"/>
+      <rect x="16" y="15" width="4" height="24" rx="2" fill="#67aaff"/>
+      <text x="32" y="33" fill="#d7c6ff" font-size="13" font-weight="700" letter-spacing="1">03 / BACKEND</text>
+      <g font-size="13" font-weight="600">
+        <rect x="17" y="54" width="88" height="31" rx="8" fill="#20342b"/><text x="30" y="74" fill="#9fe3a7">Node.js</text>
+        <rect x="113" y="54" width="92" height="31" rx="8" fill="#292631"/><text x="130" y="74" fill="#d7d1e8">Express</text>
+        <rect x="213" y="54" width="93" height="31" rx="8" fill="#202e39"/><text x="229" y="74" fill="#9ed7ee">Nginx</text>
+      </g>
+      <text x="18" y="99" fill="#aaa2bb" font-size="11">APIs　·　Services　·　Web</text>
+    </g>
+
+    <g transform="translate(38 234)">
+      <rect width="503" height="106" rx="15" fill="#191727" stroke="#6b63c8" stroke-opacity=".7"/>
+      <rect x="16" y="15" width="4" height="24" rx="2" fill="#a38aff"/>
+      <text x="32" y="33" fill="#d7c6ff" font-size="13" font-weight="700" letter-spacing="1">04 / DATA</text>
+      <g font-size="13" font-weight="600">
+        <rect x="17" y="54" width="91" height="31" rx="8" fill="#202c3c"/><text x="33" y="74" fill="#9dc7ff">MySQL</text>
+        <rect x="116" y="54" width="119" height="31" rx="8" fill="#202b43"/><text x="131" y="74" fill="#a8c8ff">PostgreSQL</text>
+        <rect x="243" y="54" width="105" height="31" rx="8" fill="#20342b"/><text x="258" y="74" fill="#9fe3a7">MongoDB</text>
+      </g>
+      <text x="366" y="74" fill="#aaa2bb" font-size="11">Relational + document</text>
+    </g>
+
+    <g transform="translate(559 234)">
+      <rect width="503" height="106" rx="15" fill="#191727" stroke="#6b63c8" stroke-opacity=".7"/>
+      <rect x="16" y="15" width="4" height="24" rx="2" fill="#bd7dff"/>
+      <text x="32" y="33" fill="#d7c6ff" font-size="13" font-weight="700" letter-spacing="1">05 / CREATE &amp; SHIP</text>
+      <g font-size="12" font-weight="600">
+        <rect x="17" y="54" width="55" height="31" rx="8" fill="#30252c"/><text x="31" y="74" fill="#ffb28f">Git</text>
+        <rect x="80" y="54" width="74" height="31" rx="8" fill="#302231"/><text x="94" y="74" fill="#ff9fd1">Figma</text>
+        <rect x="162" y="54" width="78" height="31" rx="8" fill="#202e39"/><text x="174" y="74" fill="#9ed7ee">Canva</text>
+        <rect x="248" y="54" width="72" height="31" rx="8" fill="#252436"/><text x="258" y="74" fill="#b9a7ff">CapCut</text>
+        <rect x="328" y="54" width="157" height="31" rx="8" fill="#20243a"/><text x="340" y="74" fill="#a9b9ff">Adobe Creative Cloud</text>
+      </g>
+      <text x="18" y="99" fill="#aaa2bb" font-size="11">Design　·　Video　·　Version control</text>
+    </g>
+  </g>
+</svg>
