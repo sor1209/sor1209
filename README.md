@@ -12,11 +12,7 @@
   </a>
   <a href="https://github.com/sor1209">
     <img src="https://img.shields.io/badge/GitHub-EXPLORE%20MY%20WORK-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: sor1209">
-  </a>
-  <a href="https://www.facebook.com/ensor.vn/">
-    <img src="https://img.shields.io/badge/Facebook-SAY%20HELLO-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Connect on Facebook">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=sor1209&label=PROFILE%20VISITORS&color=8A2BE2&style=for-the-badge" alt="Profile visitors">
+  </a>  <img src="https://komarev.com/ghpvc/?username=sor1209&label=PROFILE%20VISITORS&color=8A2BE2&style=for-the-badge" alt="Profile visitors">
 </p>
 
 <p align="center">
